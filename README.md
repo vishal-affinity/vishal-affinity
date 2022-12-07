@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1539207c100e342b7328613dacfe99e284609e06cd60fcce04e86958b4c47dd6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f38662f31632f37353866316364386365646539633365343731313330366663303330663463652e676966" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=tech+anime+boy+gif&tbm=isch&ved=2ahUKEwiJ0JGrzef7AhVpkdgFHTvRA1YQ2-cCegQIABAA&oq=tech+anime+boy+gif&gs_lcp=CgNpbWcQAzoGCAAQCBAeULsGWP8TYP4baABwAHgAgAHrAYgB5weSAQUwLjUuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=8JOQY4mYLumi4t4Pu6KPsAU&bih=714&biw=1536&rlz=1C1CHBD_enIN872IN872#imgrc=bwN7bUKmqFb_nM" width="200"/>
 
 
 - 📑 I’m currently **a B-Tech Undergraduate**
