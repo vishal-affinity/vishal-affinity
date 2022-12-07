@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://github.com/vishal-affinity/vishal-affinity/blob/main/ninjala-jane.gif" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 
 
