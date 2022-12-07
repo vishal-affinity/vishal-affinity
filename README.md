@@ -12,7 +12,7 @@
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624" width="200"/>
-<div class="tenor-gif-embed" data-postid="20337624" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624">Ninjala Jane GIF</a>from <a href="https://tenor.com/search/ninjala-gifs">Ninjala GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 
 - 📑 I’m currently **a B-Tech Undergraduate**
