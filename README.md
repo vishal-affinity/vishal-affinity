@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/vishal-affinity/vishal-affinity/blob/main/ninjala-jane.gif" width="200"/>
 
 
 
