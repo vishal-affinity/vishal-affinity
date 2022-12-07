@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=tech+anime+boy+gif&tbm=isch&ved=2ahUKEwiJ0JGrzef7AhVpkdgFHTvRA1YQ2-cCegQIABAA&oq=tech+anime+boy+gif&gs_lcp=CgNpbWcQAzoGCAAQCBAeULsGWP8TYP4baABwAHgAgAHrAYgB5weSAQUwLjUuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=8JOQY4mYLumi4t4Pu6KPsAU&bih=714&biw=1536&rlz=1C1CHBD_enIN872IN872#imgrc=bwN7bUKmqFb_nM" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=tech+anime+boy+gif&tbm=isch&ved=2ahUKEwiJ0JGrzef7AhVpkdgFHTvRA1YQ2-cCegQIABAA&oq=tech+anime+boy+gif&gs_lcp=CgNpbWcQAzoGCAAQCBAeULsGWP8TYP4baABwAHgAgAHrAYgB5weSAQUwLjUuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=8JOQY4mYLumi4t4Pu6KPsAU&bih=714&biw=1536&rlz=1C1CHBD_enIN872IN872#imgrc=bwN7bUKmqFb_nM&imgdii=qKE2cOR8t3jM1M" width="200"/>
 
 
 - 📑 I’m currently **a B-Tech Undergraduate**
