@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://www.tumblr.com/hokengeto/635858293021163520/anime-akudama-drive-2020-director-tomohisa" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/anime-hacking-keyboard-typing-fast-typing-gif-17794715" width="200"/>
 
 
 - 📑 I’m currently **a B-Tech Undergraduate**
